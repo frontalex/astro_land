@@ -1,0 +1,16 @@
+{
+  "name": "astro_land",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/db": "^0.9.8",
+    "astro": "^4.5.12"
+  }
+}
